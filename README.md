@@ -1,4 +1,4 @@
-cat << 'EOF' > ~/myos/README.md
+
 # myosOS v0.1.0
 > A Minimalist 32-bit Monolithic-style Research Kernel Built from Scratch
 
@@ -75,4 +75,4 @@ To boot the finalized kernel within the QEMU environment mapped to standard VNC 
 ```bash
 make run
 ```
-EOF
+
