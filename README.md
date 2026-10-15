@@ -75,4 +75,16 @@ To boot the finalized kernel within the QEMU environment mapped to standard VNC 
 ```bash
 make run
 ```
+## How to Run
+
+1. Clone the repository and navigate into the project directory:
+   ```bash
+   git clone https://github.com
+   cd myosOS
+   ```
+
+2. Build and run the kernel using QEMU:
+   ```bash
+   make run
+   ```
 
