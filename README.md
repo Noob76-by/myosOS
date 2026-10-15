@@ -80,7 +80,7 @@ make run
 1. Clone the repository and navigate into the project directory:
    ```bash
    git clone https://github.com
-   cd myosOS
+   cd ~/myos
    ```
 
 2. Build and run the kernel using QEMU:
